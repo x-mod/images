@@ -1,4 +1,4 @@
-x-mod 项目图解 
+x-mod Why & How By Pictures
 ===
 
-- [x-mod/glog 级别日志，以及 glog 陷阱与改造](x-mod-glog/index.md)
+- **x-mod/glog** [English](x-mod-glog/index.en.md)/[中文](x-mod-glog/index.md)
